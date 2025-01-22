@@ -1,0 +1,8 @@
+APi: 9f64fe8d2389772a442b7e5f596822d3
+
+Base URL: https://api.themoviedb.org/3
+
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=9f64fe8d2389772a442b7e5f596822d3
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=9f64fe8d2389772a442b7e5f596822d3
